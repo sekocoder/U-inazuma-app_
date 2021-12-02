@@ -14,4 +14,4 @@ A Quiz Game App to find your Inazuma Genshin Avatar
 
 # Demonstration Video
 
-Demonstration of the U-inazuma App can be viewed with this [link](https://user-images.githubusercontent.com/93031862/144492572-8a5dff00-46c8-426a-9ffc-b8b2aaba4db9.mp4)
+The demonstration video of the U-inazuma App can be viewed by clicking on this [link](https://user-images.githubusercontent.com/93031862/144492572-8a5dff00-46c8-426a-9ffc-b8b2aaba4db9.mp4)
