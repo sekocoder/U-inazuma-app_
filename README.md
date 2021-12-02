@@ -1,6 +1,6 @@
 # U-Inazuma App
 
-A Quiz Game App to find your inazuma Genshin Avatar
+A Quiz Game App to find your Inazuma Genshin Avatar
  
 # Tech Stack Used
 
