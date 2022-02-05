@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">U-inazuma</string>
+    <string name="how_to_play">How To PLay</string>
+    <string name="play">Play</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="todo">TODO</string>
+    <string name="kamisato_ayaka">Kamisato Ayaka</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="hello">Hello Traveller!! This is paimon..In this game there will be some questions with multiple choices available to you. You will have to select one choice which suites you the most. At the end you will be able to know which inazuma character you are most likely to be. All the best..</string>
+    <string name="textview3">Which trait among the following traits describes you the best?</string>
+    <string name="elegant">Elegant</string>
+    <string name="stoic">Stoic</string>
+    <string name="carefree">Carefree</string>
+    <string name="textview4">If you are offered a valuable resource who would you prefer to pass it to?</string>
+    <string name="elegant1">Yourself</string>
+    <string name="stoic1">Your Best Friend</string>
+    <string name="carefree1">Everyone</string>
+    <string name="hello1">Paimon has thoroughly evaluated your choices and has come up with a Inazuma character which matches you the most!!</string>
+    <string name="carefree2">Show Character</string>
+    <string name="baal">Baal Shogun</string>
+    <string name="kazuha">Kaedehara Kazuha</string>
+    <string name="back">Return</string>
+    <string name="todoo">TODO</string>
+    <string name="curent_roster">Current roster</string>
+    <string name="Yoimiya">Yoimiya</string>
+    <string name="sanganomiya_kokomi">Sanganomiya Kokomi</string>
+    <string name="_3rdquestion">You mostly stay?</string>
+    <string name="indoors">Indoors</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="you_prefer">You prefer?</string>
+    <string name="sweet_food">Sweet Food</string>
+    <string name="spicy_food">Spicy Food</string>
+</resources>
